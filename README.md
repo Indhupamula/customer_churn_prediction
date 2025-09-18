@@ -99,11 +99,4 @@ Best model: **XGBoost**
 - Built a reliable churn prediction model using real-world data.
 - Can be used by businesses to identify high-risk customers and reduce churn through targeted actions.
 
----
 
-## 🚀 How to Run This Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pavani-Reddy111/churn-prediction-ml.git
-# churn-prediction-
